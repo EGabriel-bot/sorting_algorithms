@@ -2,7 +2,7 @@
 #include "sort.h"
 
 /**
- * bubble_sort - bubble sort algorithm
+ * bubble_sort - sort in ascending order using the bubble sort
  *@array: an array
  *@size: size of the array
  */
