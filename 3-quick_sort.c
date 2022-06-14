@@ -3,7 +3,7 @@
 /**
  * partition - sorts an array of integers in ascending order
  * using the Quick sort algorithm
- * 
+ *
  * @array: array of integers
  * @low: lowest index in array
  * @high: highest index in array
